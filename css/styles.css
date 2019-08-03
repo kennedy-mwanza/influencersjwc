@@ -1,0 +1,95 @@
+.navbar{
+    background-color: rgb(179, 9, 9) !important;
+}
+img{
+    opacity: 1.0 !important;
+    size: cover !important;
+}
+.blogsec1{
+
+}
+#testimonials img{
+    padding-top:10px;
+    padding-left: 35%;
+    padding-right: 35%;
+}
+#testimonials a{
+    background-color:black;
+    height: 50px;
+    margin-top:10%;
+}
+.testimonials{
+    background-color: rgb(145, 0, 0);
+    padding-bottom: 50;
+    
+}
+footer{
+    padding-top: 50px;
+    background-color: black !important;
+}
+.donate{
+    margin-left:23%;
+}
+footer img{
+    padding-bottom: 10px;
+}
+.footerimg2{
+    margin-right:10px;
+}
+.socialicons{
+    height: 60px !important;
+    width: 60px !important;
+    margin-top: 20px;
+}
+.navfooter{
+    background-color: black !important;
+}
+.hrfooter{
+    border: 0.5px solid;
+    color: white;
+}
+.blogsec1{
+    padding-bottom: 100px;
+
+}
+.blogsec1 h1{
+    padding-top: 10%;
+    font-family: forte;
+}
+.gallerysec1{
+    padding-top:50px;
+}
+.gallerysec1 h1{
+    font-family: forte;
+    color: rgb(179, 9, 9);
+}
+.aboutsec1 {
+    background-image:linear-gradient(black,rgb(179, 9, 9));
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+.aboutsec1 h1{
+    font-family: forte;
+    padding-top: 20px;
+}
+tr{
+    background-color: rgb(145, 0, 0);
+}
+tr :hover{
+    color: black;
+}
+.homesec1 .carousel-caption{
+    background-color:rgba(0, 0, 0, 0.3);
+    
+}
+.theme{
+    background-image:linear-gradient(black,rgb(179, 9, 9));
+    padding-bottom: 20px  
+    
+}
+.aboutsec1 hr{
+    font-family: forte;
+    color: white;
+    border: 2px solid;
+    width: 100px;
+}
