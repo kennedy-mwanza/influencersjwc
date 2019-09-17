@@ -4,6 +4,8 @@
 img{
     opacity: 1.0 !important;
     size: cover !important;
+    margin-top:10px ;
+    display: inline;
 }
 .blogsec1{
 padding-top: 20px;
@@ -93,4 +95,16 @@ tr :hover{
 }
 .homesec1{
     margin-top: 40px;
+}
+.imgrotate{
+display: inline;
+margin-top: 5px;
+}
+a .imgrotate{
+    margin: 0px;
+    display: inline;
+}
+.pics{
+    background-color:rgb(179, 9, 9);
+    border-radius: 10px;
 }
